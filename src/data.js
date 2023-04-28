@@ -1,4 +1,4 @@
-[
+export const arrProduct = [
     {
       "id": 1,
       "name": "Adidas Prophere",
